@@ -1,2 +1,2 @@
 @echo off
-echo Hello Worldline team....
+echo Hello from Jenkins!
